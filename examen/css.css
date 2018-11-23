@@ -1,0 +1,20 @@
+/* css hecha por Andrés S. Pereira Ch. el 23/11/2018 */
+header{
+    background-color: gray;
+    text-align: center;
+}
+div{
+    text-align: center,
+}
+main{
+    text-align: center;
+    color: blue;
+}
+aside{
+    text-align: right;
+   
+}
+footer{
+    background-color: grey;
+    text-align: center;
+}
